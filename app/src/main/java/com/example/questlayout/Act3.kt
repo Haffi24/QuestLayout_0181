@@ -19,7 +19,7 @@ fun ActivitasPertama(modifier: Modifier) {
 
     ) {
         Text(
-            stringResource("Teknologi Informasi"),
+            stringResource(R.string.prodi),
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold
         )
